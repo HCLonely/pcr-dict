@@ -117,7 +117,7 @@
 
   // 压缩输出目录
   console.log('正在压缩词库...')
-  await zipdir('./output', { saveTo: './output.zip' })
+  await zipdir('./output', { saveTo: './词库.zip' })
   console.log('词库压缩完成！')
 
   console.log('转换完成，其他输入法请打开', path.resolve('./imewlconverter_Windows/深蓝词库转换.exe'), '程序查看是否可以转换！')
