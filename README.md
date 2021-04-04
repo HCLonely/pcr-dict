@@ -4,7 +4,7 @@
 
 ### 使用
 
-- 到[releases](https://github.com/HCLonely/pcr-dict/releases)页面下载词库，解压后导入即可。
+- 到[releases](https://github.com/HCLonely/pcr-dict/releases)页面下载`pcr-dict.zip`文件，解压后导入即可。
 
 ### 数据来源
 
