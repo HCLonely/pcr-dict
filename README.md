@@ -14,3 +14,7 @@
 ### 词库转换
 
 [imewlconverter](https://github.com/studyzy/imewlconverter)
+
+### LICENSE
+
+[MIT LICENSE](https://github.com/HCLonely/pcr-dict/blob/master/LICENSE)
