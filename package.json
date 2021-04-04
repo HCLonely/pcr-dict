@@ -1,0 +1,23 @@
+{
+  "name": "pcr-dict",
+  "version": "1.0.0",
+  "description": "公主连结Re:Dive中文词库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "HCLonely",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "fs-extra": "^9.1.0",
+    "i": "^0.3.6",
+    "npm": "^7.8.0",
+    "zip-dir": "^2.0.0"
+  }
+}
