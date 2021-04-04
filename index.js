@@ -6,10 +6,14 @@
   const zipdir = require('zip-dir')
   const axios = require('axios')
   axios.defaults.timeout = 30000
+  const getSkill = require('./getSkill')
 
-  let DATA = fs.readFileSync('data.txt').toString().split('\n')
-  let otherData = JSON.parse(fs.readFileSync('other.json'))
+  let DATA = fs.readFileSync('./data/data.txt').toString().trim().split('\n')
+
+  // 获取自定义数据
+  let otherData = fs.readFileSync('other.txt').toString().trim().split('\n')
   DATA = DATA.concat(otherData)
+
   // 获取角色数据
   console.log('正在获取角色数据...')
   const data = await axios.get('https://raw.githubusercontent.com/Ice-Cirno/HoshinoBot/master/hoshino/modules/priconne/_pcr_data.py')
@@ -45,6 +49,7 @@
     .catch(() => false)
   if (!equipData) return console.log('获取装备数据失败！')
   DATA = DATA.concat(equipData)
+
   // 获取专武数据
   const weaponData = await axios.get('https://wiki.biligame.com/pcr/%E4%B8%93%E5%B1%9E%E8%A3%85%E5%A4%87')
     .then(e => {
@@ -55,6 +60,11 @@
     .catch(() => false)
   if (!weaponData) return console.log('获取专武数据失败！')
   DATA = DATA.concat(weaponData)
+
+  // 获取技能数据
+  DATA = DATA.concat(await getSkill())
+
+  // 去除日文, 英文, emoji
   const result = DATA.map(e => {
     if (/[\u0800-\u4e00()]/.test(e)) return null
     if (/(\u00a9|\u00ae|[\u2000-\u3300]|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff]|\(|\))+/.test(e)) return null
@@ -64,9 +74,11 @@
   }).filter(e => e)
 
   // 保存数据
-  fs.writeFileSync('data.txt', [...new Set(result)].join('\n').trim())
+  fs.writeFileSync('./data/data.txt', [...new Set(result)].join('\n').trim())
   fs.emptyDirSync('./output')
-  // 转换词库
+
+
+  // 生成词库
   const type = {
     sgpy: '搜狗拼音txt',
     //scel: '搜狗细胞词库scel',
@@ -112,7 +124,7 @@
   }
   for (const [k, v] of Object.entries(type)) {
     console.log('正在生成', v, '词库')
-    execSync(`${path.resolve('./imewlconverter_Windows/深蓝词库转换.exe')} -i:word data.txt -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
+    execSync(`${path.resolve('./imewlconverter_Windows/深蓝词库转换.exe')} -i:word ${path.resolve('./data/data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
   }
 
   // 压缩输出目录
