@@ -6,8 +6,6 @@ name: Generate Dict
 on:
   schedule:
     - cron: '0 0 ? ? 5'
-  watch:
-    types: started
 
 jobs:
   build:
