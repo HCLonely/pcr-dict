@@ -14,9 +14,7 @@ if lzy.login_by_cookie(cookie) != LanZouCloud.SUCCESS:
     url = 'https://sc.ftqq.com/' + server_key + \
         '.send?text=' + parse.quote('蓝奏云Cookie失效') + '&desp=' + \
         time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    print(url)
     res = requests.get(url)
-    print(res.text)
     sys.exit()
 
 def show_progress(file_name, total_size, now_size):

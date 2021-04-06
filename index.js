@@ -2,65 +2,20 @@
   const fs = require('fs-extra')
   const path = require('path')
   const { execSync } = require('child_process')
-  const cheerio = require('cheerio')
   const zipdir = require('zip-dir')
-  const axios = require('axios')
-  axios.defaults.timeout = 30000
-  const getSkill = require('./getSkill')
+  const getCharacter = require('./src/character')
+  const getSkill = require('./src/skill')
+  const getEquip = require('./src/equip')
+  const getCustom = require('./src/custom')
 
-  let DATA = fs.readFileSync('./data/data.txt').toString().trim().split('\n')
+  let DATA = fs.readFileSync('./data.txt').toString().trim().split('\n')
 
   // 获取自定义数据
-  let otherData = fs.readFileSync('./data/other.txt').toString().trim().split('\n')
-  DATA = DATA.concat(otherData)
-
+  DATA = DATA.concat(getCustom())
   // 获取角色数据
-  console.log('正在获取角色数据...')
-  const data = await axios.get('https://raw.githubusercontent.com/Ice-Cirno/HoshinoBot/master/hoshino/modules/priconne/_pcr_data.py')
-    .then(e => e.data)
-    .catch(() => {
-      return axios.get('https://github.91chifun.workers.dev//https://raw.githubusercontent.com/Ice-Cirno/HoshinoBot/master/hoshino/modules/priconne/_pcr_data.py')
-        .then(e => e.data)
-        .catch(() => false)
-    })
-  if (!data) return console.log('获取角色数据失败！')
-  console.log('获取角色数据成功！\n正在处理角色数据...')
-  // 处理角色名&别名
-  const CHARA_NAME = data.match(/CHARA_NAME = \{([\w\W]*?)\}/)[1]
-  const CHARA_NAME_FORMATED = JSON.parse(`{${CHARA_NAME.replace(/\s+/g, '').replace(/\#=*\#/g, '').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
-  for (const e of Object.values(CHARA_NAME_FORMATED)) {
-    DATA = DATA.concat(e)
-  }
-  // 处理公会名&声优
-  const CHARA_PROFILE = data.match(/CHARA_PROFILE = \{([\w\W]*?)\}[\s]+?/)[1]
-  const CHARA_PROFILE_FORMATED = JSON.parse(`{${CHARA_PROFILE.replace(/\s+/g, '').replace(/\#=*\#/g, '').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
-  for (const e of Object.values(CHARA_PROFILE_FORMATED)) {
-    DATA = DATA.concat([e['名字'], e['公会'], e['声优']])
-  }
-  console.log('处理角色数据成功！\n正在获取装备数据...')
-
+  DATA = DATA.concat(await getCharacter())
   // 获取装备数据
-  const equipData = await axios.get('https://wiki.biligame.com/pcr/%E8%A3%85%E5%A4%87%E4%B8%80%E8%A7%88')
-    .then(e => {
-      console.log('获取装备数据成功！\n正在处理装备数据...')
-      const $ = cheerio.load(e.data)
-      return $('#wiki_table span[data-id]>a').map((i, e) => e.attribs.title).toArray()
-    })
-    .catch(() => false)
-  if (!equipData) return console.log('获取装备数据失败！')
-  DATA = DATA.concat(equipData)
-
-  // 获取专武数据
-  const weaponData = await axios.get('https://wiki.biligame.com/pcr/%E4%B8%93%E5%B1%9E%E8%A3%85%E5%A4%87')
-    .then(e => {
-      console.log('获取专武数据成功！\n正在处理专武数据...')
-      const $ = cheerio.load(e.data)
-      return $('tr').not(':has(th)').map((i, e) => $(e).children('td').eq(1).text().trim()).toArray()
-    })
-    .catch(() => false)
-  if (!weaponData) return console.log('获取专武数据失败！')
-  DATA = DATA.concat(weaponData)
-
+  DATA = DATA.concat(await getEquip())
   // 获取技能数据
   DATA = DATA.concat(await getSkill())
 
@@ -74,11 +29,10 @@
   }).filter(e => e)
 
   // 保存数据
-  fs.writeFileSync('./data/data.txt', [...new Set(result)].join('\n').trim())
-  fs.emptyDirSync('./output')
-
+  fs.writeFileSync('./data.txt', [...new Set(result)].join('\n').trim())
 
   // 生成词库
+  fs.emptyDirSync('./output')
   const type = {
     sgpy: '搜狗拼音txt',
     //scel: '搜狗细胞词库scel',
@@ -124,7 +78,7 @@
   }
   for (const [k, v] of Object.entries(type)) {
     console.log('正在生成', v, '词库')
-    execSync(`${path.resolve('./imewlconverter_Windows/深蓝词库转换.exe')} -i:word ${path.resolve('./data/data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
+    execSync(`${path.resolve('./imewlconverter_Windows/深蓝词库转换.exe')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
   }
 
   // 压缩输出目录

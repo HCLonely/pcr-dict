@@ -4,7 +4,7 @@ const axios = require('axios')
 axios.defaults.timeout = 30000
 
 async function getSkill() {
-  const cachedData = fs.readFileSync('./data/skill.txt').toString().trim().split(/\s/)
+  const cachedData = fs.readFileSync('./data/temp/skillCharacter.txt').toString().trim().split(/\s/)
   let DATA = []
   // 获取角色数据
   console.log('正在获取国服角色数据...')
@@ -15,13 +15,17 @@ async function getSkill() {
       return $('div[title="已实装"] a').map((i, e) => e.attribs.title).toArray()
     })
     .catch(() => false)
-  if (!data) return console.log('获取国服角色数据失败！')
+  if (!data) {
+    console.log('获取国服角色数据失败！')
+    return []
+  }
+  console.log('处理国服角色数据成功！')
 
   for (const name of data) {
     DATA = DATA.concat(await getSkillData(name))
   }
 
-  fs.writeFileSync('./data/skill.txt', [...new Set(cachedData)].join('\n').trim())
+  fs.writeFileSync('./data/temp/skillCharacter.txt', [...new Set(cachedData)].join('\n').trim())
   return [...new Set(DATA)]
 
   // 获取技能数据
@@ -32,7 +36,6 @@ async function getSkill() {
       .then(e => {
         console.log('获取', name, '技能数据成功！\n正在处理', name, '技能数据...')
         const $ = cheerio.load(e.data)
-        //console.log($('div[title="角色技能"] th').not('[colspan]'))
         return $('div[title="角色技能"] th').not('[colspan]').map((i, e) => $(e).text().trim().replace(/\++/g, '')).toArray().filter(e => e)
       })
       .catch((error) => console.log(error))
