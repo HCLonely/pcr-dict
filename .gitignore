@@ -1,5 +1,7 @@
 node_modules
 .history
-imewlconverter_Windows/*.dat
+imewlconverter/*.dat
 output/*.txt
 pcr-dict.zip
+imewlconverter/*.zip
+imewlconverter/dictionary.txt

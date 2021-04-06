@@ -46,7 +46,7 @@
     xiaoxiao: '小小输入法',
     //bdict: '百度分类词库bdict',
     ggpy: '谷歌拼音',
-    //gboard: 'Gboard',
+    gboard: 'Gboard',
     pyjj: '拼音加加',
     win10mspy: 'Win10微软拼音（自定义短语）',
     win10mswb: 'Win10微软五笔（自定义短语）',
@@ -78,8 +78,11 @@
   }
   for (const [k, v] of Object.entries(type)) {
     console.log('正在生成', v, '词库')
-    execSync(`${path.resolve('./imewlconverter_Windows/深蓝词库转换.exe')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
+    execSync(`dotnet ${path.resolve('./imewlconverter/ImeWlConverterCmd.dll')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
   }
+
+  // 移动Gboard词库文件
+  if (fs.existsSync('./imewlconverter/dictionary.txt')) fs.moveSync('./imewlconverter/dictionary.txt', './output/Gboard.txt', { overwrite: true })
 
   // 压缩输出目录
   console.log('正在压缩词库...')
