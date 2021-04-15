@@ -87,11 +87,11 @@
     fs.moveSync('./imewlconverter/Win10微软拼音词库.dat', './output/Win10微软拼音词库.dat', { overwrite: true })
     fs.unlinkSync('./output/Win10微软拼音（自定义短语）.txt')
   }
-  if (fs.existsSync('./imewlconverter/Win10微软拼音词库.dat')){
+  if (fs.existsSync('./imewlconverter/Win10微软五笔词库.dat')){
     fs.moveSync('./imewlconverter/Win10微软五笔词库.dat', './output/Win10微软五笔词库.dat', { overwrite: true })
     fs.unlinkSync('./output/Win10微软五笔（自定义短语）.txt')
   }
-  if (fs.existsSync('./imewlconverter/Win10微软拼音词库.dat')){
+  if (fs.existsSync('./imewlconverter/Win10微软拼音自学习词库0.dat')){
     fs.moveSync('./imewlconverter/Win10微软拼音自学习词库0.dat', './output/Win10微软拼音自学习词库0.dat', { overwrite: true })
     fs.unlinkSync('./output/Win10微软拼音（自学习词库）.txt')
   }
