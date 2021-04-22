@@ -5,3 +5,4 @@ output/*.txt
 pcr-dict.zip
 imewlconverter/*.zip
 imewlconverter/dictionary.txt
+docs/.vuepress/dist
