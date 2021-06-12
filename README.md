@@ -5,7 +5,7 @@
 ### 使用
 
 - 到[releases](https://github.com/HCLonely/pcr-dict/releases)页面下载`pcr-dict.zip`文件，解压后导入即可。
-- [蓝奏云下载](https://hclonely.lanzous.com/b01c999ne) 密码:h1wg
+- [蓝奏云下载](https://hclonely.lanzoux.com/b01c999ne) 密码:h1wg
 
 ### 添加更多词汇
 
