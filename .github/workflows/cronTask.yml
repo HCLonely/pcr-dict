@@ -25,7 +25,7 @@ jobs:
     - run: npm ci
     - run: npm run build
     - name: 'Upload Dict'
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: pcr-dict
         path: ./pcr-dict.zip
