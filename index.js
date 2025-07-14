@@ -8,16 +8,16 @@
   const getEquip = require('./src/equip')
   const getCustom = require('./src/custom')
 
-  let DATA = fs.readFileSync('./data.txt').toString().trim().split('\n')
+  let DATA = []
 
   // 获取自定义数据
   DATA = DATA.concat(getCustom())
   // 获取角色数据
   DATA = DATA.concat(await getCharacter())
   // 获取装备数据
-  DATA = DATA.concat(await getEquip())
+  // DATA = DATA.concat(await getEquip())
   // 获取技能数据
-  DATA = DATA.concat(await getSkill())
+  // DATA = DATA.concat(await getSkill())
 
   // 去除日文, 英文, emoji
   const result = DATA.map(e => {
@@ -35,29 +35,25 @@
   fs.emptyDirSync('./output')
   const type = {
     sgpy: '搜狗拼音txt',
-    //scel: '搜狗细胞词库scel',
-    //sgpybin: '搜狗拼音备份词库bin',
+    // scel: '搜狗细胞词库scel',
+    // sgpybin: '搜狗拼音备份词库bin',
     qqpy: 'QQ拼音',
-    //qpyd: 'QQ分类词库qpyd',
-    //qcel: 'QQ分类词库qcel',
+    // qpyd: 'QQ分类词库qpyd',
     qqwb: 'QQ五笔',
-    //qqpye: 'QQ拼音英文',
+    qqpye: 'QQ拼音英文',
     bdpy: '百度拼音',
     xiaoxiao: '小小输入法',
-    //bdict: '百度分类词库bdict',
+    // bdict: '百度分类词库bdict',
     ggpy: '谷歌拼音',
-    gboard: 'Gboard',
     pyjj: '拼音加加',
     win10mspy: 'Win10微软拼音（自定义短语）',
     win10mswb: 'Win10微软五笔（自定义短语）',
-    win10mspyss: 'Win10微软拼音（自学习词库）',
-    mspy: '微软拼音',
     bing: '必应输入法',
+    mspy: '微软拼音',
     fit: 'FIT输入法',
-    plist: 'Mac简体拼音',
     rime: 'Rime中州韵',
     zgpy: '华宇紫光拼音',
-    //uwl: '紫光拼音词库uwl',
+    // uwl: '紫光拼音词库uwl',
     libpy: 'libpinyin',
     pyim: 'Chinese-pyim',
     sxpy: '手心输入法',
@@ -65,20 +61,28 @@
     jd: '极点五笔',
     jdzm: '极点郑码',
     xywb: '小鸭五笔',
+    // ld2: '灵格斯ld2',
     yahoo: '雅虎奇摩',
-    //ld2: '灵格斯ld2',
     wb86: '五笔86版',
     wb98: '五笔98版',
     cjpt: '仓颉平台',
-    bdsj: '百度手机或Mac版百度拼音',
-    //bdsje: '百度手机英文',
-    //bcd: '百度手机词库bcd',
+    bdsj: '百度手机',
+    bdsje: '百度手机英文',
+    // bcd: '百度手机词库bcd',
     qqsj: 'QQ手机',
-    ifly: '讯飞输入法'
+    ifly: '讯飞输入法',
+    // self: '自定义',
+    word: '无拼音纯汉字'
   }
   for (const [k, v] of Object.entries(type)) {
     console.log('正在生成', v, '词库')
-    execSync(`dotnet ${path.resolve('./imewlconverter/ImeWlConverterCmd.dll')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
+    try {
+      execSync(`dotnet ${path.resolve('./imewlconverter/深蓝词库转换.dll')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output', `${v}.txt`)}`)
+    } catch (e) {
+      console.error(`生成 ${v} 词库失败:`, e.message)
+      continue
+    }
+    // execSync(`dotnet ${path.resolve('./imewlconverter/ImeWlConverterCmd.dll')} -i:word ${path.resolve('./data.txt')} -o:${k} ${path.resolve('./output')}`)
   }
 
   // 移动imewlconverter目录词库文件
@@ -91,10 +95,8 @@
     fs.moveSync('./imewlconverter/Win10微软五笔词库.dat', './output/Win10微软五笔词库.dat', { overwrite: true })
     fs.unlinkSync('./output/Win10微软五笔（自定义短语）.txt')
   }
-  if (fs.existsSync('./imewlconverter/Win10微软拼音自学习词库0.dat')){
-    fs.moveSync('./imewlconverter/Win10微软拼音自学习词库0.dat', './output/Win10微软拼音自学习词库0.dat', { overwrite: true })
-    fs.unlinkSync('./output/Win10微软拼音（自学习词库）.txt')
-  }
+
+  fs.copySync('./output', './docs/.vuepress/public');
 
   // 压缩输出目录
   console.log('正在压缩词库...')

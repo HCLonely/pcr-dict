@@ -1,8 +1,9 @@
 node_modules
 .history
 imewlconverter/*.dat
-output/*.txt
+output/*
 pcr-dict.zip
 imewlconverter/*.zip
 imewlconverter/dictionary.txt
 docs/.vuepress/dist
+data.txt

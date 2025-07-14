@@ -18,10 +18,10 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 3.1.101
-    - name: Use Node.js 14.x
+    - name: Use Node.js 22.x
       uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: 22.x
     - run: npm ci
     - run: npm run build
     - name: 'Upload Dict'
@@ -38,16 +38,3 @@ jobs:
         files: ./pcr-dict.zip
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        python -m pip install lanzou-api
-    - name: Upload to lanzou
-      run: python upload2lanzou.py
-      env:
-        LANZOU_COOKIE: ${{ secrets.LANZOU_COOKIE }}
-        SERVER_KEY: ${{ secrets.SERVER_KEY }}

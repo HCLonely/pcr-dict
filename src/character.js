@@ -19,13 +19,15 @@ async function getCharacter() {
   console.log('获取角色数据成功！\n正在处理角色数据...')
   // 处理角色名&别名
   const CHARA_NAME = data.match(/CHARA_NAME = \{([\w\W]*?)\}/)[1]
-  const CHARA_NAME_FORMATED = JSON.parse(`{${CHARA_NAME.replace(/\s+/g, '').replace(/\#=*\#/g, '').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
+  // console.log(CHARA_NAME.split('\n').filter(e => e.trim() && !e.replace(/\s/g, '').startsWith('#')).join('\n'));
+  // console.log(`{${CHARA_NAME.replace(/\s+/g, '').replace(/\#+=\#+/g, '').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`);
+  const CHARA_NAME_FORMATED = JSON.parse(`{${CHARA_NAME.split('\n').filter(e => e.trim() && !e.replace(/\s/g, '').startsWith('#')).join('\n').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
   for (const e of Object.values(CHARA_NAME_FORMATED)) {
     DATA = DATA.concat(e)
   }
   // 处理公会名&声优
   const CHARA_PROFILE = data.match(/CHARA_PROFILE = \{([\w\W]*?)\}[\s]+?/)[1]
-  const CHARA_PROFILE_FORMATED = JSON.parse(`{${CHARA_PROFILE.replace(/\s+/g, '').replace(/\#=*\#/g, '').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
+  const CHARA_PROFILE_FORMATED = JSON.parse(`{${CHARA_PROFILE.split('\n').filter(e => e.trim() && !e.replace(/\s/g, '').startsWith('#')).join('\n').replace(/,$/, '').replace(/([\d]+?):/g, (e1, e2) => `"${e2}":`)}}`)
   for (const e of Object.values(CHARA_PROFILE_FORMATED)) {
     DATA = DATA.concat([e['名字'], e['公会'], e['声优']])
   }

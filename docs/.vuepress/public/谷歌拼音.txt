@@ -1,0 +1,1264 @@
+未知角色	1	wei zhi jue se
+日和	1	ri he
+日和莉	1	ri he li
+猫拳	1	mao quan
+东山	1	dong shan
+优衣	1	you yi
+种田	1	zhong tian
+普田	1	pu tian
+由衣	1	you yi
+结衣	1	jie yi
+怜	1	lian
+剑圣	1	jian sheng
+普怜	1	pu lian
+伶	1	ling
+禊	1	xi
+未奏希	1	wei zou xi
+炸弹	1	zha dan
+炸弹人	1	zha dan ren
+熊孩子	1	xiong hai zi
+茉莉	1	mo li
+跳跳虎	1	tiao tiao hu
+老虎	1	lao hu
+虎	1	hu
+跳刀虎	1	tiao dao hu
+茜里	1	qian li
+妹法	1	mei fa
+阿卡丽	1	a ka li
+妹妹法	1	mei mei fa
+宫子	1	gong zi
+布丁	1	bu ding
+布	1	bu
+幽灵	1	you ling
+雪	1	xue
+小雪	1	xiao xue
+镜子	1	jing zi
+镜法	1	jing fa
+伪娘	1	wei niang
+男孩子	1	nan hai zi
+男孩纸	1	nan hai zhi
+雪哥	1	xue ge
+杏奈	1	xing nai
+中二	1	zhong er
+煤气罐	1	mei qi guan
+真步	1	zhen bu
+狐狸	1	hu li
+真扎	1	zhen zha
+咕噜灵波	1	gu lu ling bo
+真布	1	zhen bu
+璃乃	1	li nai
+妹弓	1	mei gong
+初音	1	chu yin
+星法	1	xing fa
+星星法	1	xing xing fa
+睡法	1	shui fa
+拍大星	1	pai da xing
+七七香	1	qi qi xiang
+娜娜卡	1	na na ka
+77香	1	xiang
+十十力	1	shi shi li
+霞	1	xia
+香澄	1	xiang cheng
+侦探	1	zhen tan
+杜宾犬	1	du bin quan
+驴	1	lv
+驴子	1	lv zi
+驴妹	1	lv mei
+美里	1	mei li
+圣母	1	sheng mu
+铃奈	1	ling nai
+暴击弓	1	bao ji gong
+暴弓	1	bao gong
+爆击弓	1	bao ji gong
+爆弓	1	bao gong
+辣妹弓	1	la mei gong
+政委	1	zheng wei
+香织	1	xiang zhi
+琉球犬	1	liu qiu quan
+狗子	1	gou zi
+狗	1	gou
+狗拳	1	gou quan
+伊绪	1	yi xu
+老师	1	lao shi
+魅魔	1	mei mo
+依绪	1	yi xu
+美美	1	mei mei
+兔子	1	tu zi
+兔兔	1	tu tu
+兔剑	1	tu jian
+萝卜霸断剑	1	luo bo ba duan jian
+人参霸断剑	1	ren can ba duan jian
+天兔霸断剑	1	tian tu ba duan jian
+胡桃	1	hu tao
+铃铛	1	ling dang
+依里	1	yi li
+姐法	1	jie fa
+姐姐法	1	jie jie fa
+绫音	1	ling yin
+熊锤	1	xiong chui
+铃莓	1	ling mei
+女仆	1	nv pu
+妹抖	1	mei dou
+悠木碧	1	you mu bi
+雀	1	que
+铃	1	ling
+松鼠	1	song shu
+惠理子	1	hui li zi
+病娇	1	bing jiao
+咲恋	1	xiao lian
+充电宝	1	chong dian bao
+青梅竹马	1	qing mei zhu ma
+幼驯染	1	you xun ran
+院长	1	yuan zhang
+园长	1	yuan zhang
+普电	1	pu dian
+望	1	wang
+偶像	1	ou xiang
+小望	1	xiao wang
+妮诺	1	ni nuo
+妮侬	1	ni nong
+扇子	1	shan zi
+忍	1	ren
+普忍	1	pu ren
+鬼父	1	gui fu
+秋乃	1	qiu nai
+哈哈剑	1	ha ha jian
+真阳	1	zhen yang
+奶牛	1	nai niu
+优花梨	1	you hua li
+由加莉	1	you jia li
+黄骑	1	huang qi
+酒鬼	1	jiu gui
+奶骑	1	nai qi
+圣骑	1	sheng qi
+油咖喱	1	you ga li
+镜华	1	jing hua
+小仓唯	1	xiao cang wei
+小苍唯	1	xiao cang wei
+8岁	1	sui
+八岁	1	ba sui
+喷水萝	1	pen shui luo
+八岁喷水萝	1	ba sui pen shui luo
+8岁喷水萝	1	sui pen shui luo
+智	1	zhi
+卜毛	1	bo mao
+脱毛	1	tuo mao
+智爷	1	zhi ye
+栞	1	kan
+tp弓	1	_tp gong
+小栞	1	xiao kan
+白虎弓	1	bai hu gong
+白虎妹	1	bai hu mei
+栞栞	1	kan kan
+白虎	1	bai hu
+碧	1	bi
+香菜	1	xiang cai
+香菜弓	1	xiang cai gong
+绿毛弓	1	lv mao gong
+毒弓	1	du gong
+绿帽弓	1	lv mao gong
+绿帽	1	lv mao
+千歌	1	qian ge
+绿毛奶	1	lv mao nai
+精灵奶	1	jing ling nai
+真琴	1	zhen qin
+狼	1	lang
+月月	1	yue yue
+朋	1	peng
+狼姐	1	lang jie
+伊莉亚	1	yi li ya
+伊利亚	1	yi li ya
+伊莉雅	1	yi li ya
+伊利雅	1	yi li ya
+吸血鬼	1	xi xue gui
+那个女人	1	na ge nv ren
+空花	1	kong hua
+抖m	1	dou _m
+抖	1	dou
+珠希	1	zhu xi
+猫剑	1	mao jian
+纯	1	chun
+黑骑	1	hei qi
+美冬	1	mei dong
+子龙	1	zi long
+赵子龙	1	zhao zi long
+静流	1	jing liu
+姐姐	1	jie jie
+美咲	1	mei xiao
+大眼	1	da yan
+眼球法	1	yan qiu fa
+深月	1	shen yue
+眼罩	1	yan zhao
+抖s	1	dou _s
+医生	1	yi sheng
+莉玛	1	li ma
+草泥马	1	cao ni ma
+羊驼	1	yang tuo
+莫妮卡	1	mo ni ka
+毛二力	1	mao er li
+莫尼卡	1	mo ni ka
+纺希	1	fang xi
+裁缝	1	cai feng
+蜘蛛侠	1	zhi zhu xia
+步未	1	bu wei
+步美	1	bu mei
+路人	1	lu ren
+路人妹	1	lu ren mei
+流夏	1	liu xia
+大姐	1	da jie
+大姐头	1	da jie tou
+儿力	1	er li
+刘夏	1	liu xia
+露卡	1	lu ka
+卢卡	1	lu ka
+吉塔	1	ji ta
+姬塔	1	ji ta
+团长	1	tuan zhang
+吉他	1	ji ta
+骑空士	1	qi kong shi
+贪吃佩可	1	tan chi pei ke
+佩可莉姆	1	pei ke li mu
+吃货	1	chi huo
+佩可	1	pei ke
+公主	1	gong zhu
+饭团	1	fan tuan
+可可萝	1	ke ke luo
+可可罗	1	ke ke luo
+妈	1	ma
+普白	1	pu bai
+普妈	1	pu ma
+凯留	1	kai liu
+凯露	1	kai lu
+百地希留耶	1	bai di xi liu ye
+希留耶	1	xi liu ye
+黑猫	1	hei mao
+臭鼬	1	chou you
+普黑	1	pu hei
+接头霸王	1	jie tou ba wang
+街头霸王	1	jie tou ba wang
+猫猫	1	mao mao
+猫猫头	1	mao mao tou
+矛依未	1	mao yi wei
+诺维姆	1	nuo wei mu
+夏娜	1	xia na
+无意义	1	wu yi yi
+天楼霸断剑	1	tian lou ba duan jian
+姆咪	1	mu mi
+母咪	1	mu mi
+亚里莎	1	ya li sha
+鸭梨瞎	1	ya li xia
+瞎子	1	xia zi
+亚里沙	1	ya li sha
+鸭梨傻	1	ya li sha
+亚丽莎	1	ya li sha
+亚莉莎	1	ya li sha
+瞎子弓	1	xia zi gong
+雪菲	1	xue fei
+紫布菜	1	zi bu cai
+冰龙	1	bing long
+嘉夜	1	jia ye
+憨憨龙	1	han han long
+龙拳	1	long quan
+接龙笨比	1	jie long ben bi
+鬼道嘉夜	1	gui dao jia ye
+卡雅	1	ka ya
+卡亚	1	ka ya
+卡娅	1	ka ya
+祈梨	1	qi li
+梨老八	1	li lao ba
+李老八	1	li lao ba
+龙锤	1	long chui
+帆稀	1	fan xi
+穗希	1	sui xi
+龙妈	1	long ma
+龙王	1	long wang
+大仓唯	1	da cang wei
+拉比林斯达	1	la bi lin si da
+迷宫女王	1	mi gong nv wang
+模索路晶	1	mo suo lu jing
+模索路	1	mo suo lu
+晶	1	jing
+迷宫女	1	mi gong nv
+王晶	1	wang jing
+晶姐	1	jing jie
+日日日	1	ri ri ri
+真那	1	zhen na
+霸瞳皇帝	1	ba tong huang di
+千里真那	1	qian li zhen na
+千里	1	qian li
+霸瞳	1	ba tong
+霸铜	1	ba tong
+似似花	1	shi shi hua
+变貌大妃	1	bian mao da fei
+现士实似似花	1	xian shi shi shi shi hua
+現士実	1	xian shi shi
+现士实	1	xian shi shi
+捏捏卡	1	nie nie ka
+变貌	1	bian mao
+大妃	1	da fei
+奶奶卡	1	nai nai ka
+克莉丝提娜	1	ke li si ti na
+誓约女君	1	shi yue nv jun
+克莉丝提娜·摩根	1	ke li si ti na mo gen
+克总	1	ke zong
+女帝	1	nv di
+克	1	ke
+摩根	1	mo gen
+克姐	1	ke jie
+可萝爹	1	ke luo die
+長老	1	zhang lao
+岳父	1	yue fu
+爷爷	1	ye ye
+拉基拉基	1	la ji la ji
+跳跃王	1	tiao yue wang
+垃圾垃圾	1	la ji la ji
+教授	1	jiao shou
+水吃	1	shui chi
+水饭	1	shui fan
+水吃货	1	shui chi huo
+水佩可	1	shui pei ke
+水公主	1	shui gong zhu
+水饭团	1	shui fan tuan
+泳吃	1	yong chi
+泳饭	1	yong fan
+泳吃货	1	yong chi huo
+泳佩可	1	yong pei ke
+泳公主	1	yong gong zhu
+泳饭团	1	yong fan tuan
+泳装吃货	1	yong zhuang chi huo
+泳装公主	1	yong zhuang gong zhu
+泳装饭团	1	yong zhuang fan tuan
+泼妇	1	po fu
+水白	1	shui bai
+水妈	1	shui ma
+水可	1	shui ke
+水可可	1	shui ke ke
+水可可萝	1	shui ke ke luo
+水可可罗	1	shui ke ke luo
+泳装妈	1	yong zhuang ma
+泳装可可萝	1	yong zhuang ke ke luo
+泳装可可罗	1	yong zhuang ke ke luo
+水女仆	1	shui nv pu
+水妹抖	1	shui mei dou
+水黑	1	shui hei
+水黑猫	1	shui hei mao
+水臭鼬	1	shui chou you
+泳装黑猫	1	yong zhuang hei mao
+泳装臭鼬	1	yong zhuang chou you
+潶	1	hei
+溴	1	xiu
+流泪猫猫头	1	liu lei mao mao tou
+水猫剑	1	shui mao jian
+水猫	1	shui mao
+渵	1	mao
+水子龙	1	shui zi long
+水美冬	1	shui mei dong
+万圣忍	1	wan sheng ren
+瓜忍	1	gua ren
+鬼忍	1	gui ren
+万圣宫子	1	wan sheng gong zi
+万圣布丁	1	wan sheng bu ding
+狼丁	1	lang ding
+狼布丁	1	lang bu ding
+万圣美咲	1	wan sheng mei xiao
+万圣大眼	1	wan sheng da yan
+瓜眼	1	gua yan
+圣诞千歌	1	sheng dan qian ge
+圣千	1	sheng qian
+蛋鸽	1	dan ge
+圣诞胡桃	1	sheng dan hu tao
+圣诞铃铛	1	sheng dan ling dang
+圣诞熊锤	1	sheng dan xiong chui
+蛋锤	1	dan chui
+圣锤	1	sheng chui
+新年日和	1	xin nian ri he
+春猫	1	chun mao
+新年优衣	1	xin nian you yi
+春田	1	chun tian
+新年由衣	1	xin nian you yi
+春剑	1	chun jian
+春怜	1	chun lian
+春伶	1	chun ling
+新春剑圣	1	xin chun jian sheng
+新年怜	1	xin nian lian
+新年剑圣	1	xin nian jian sheng
+情人节病娇	1	qing ren jie bing jiao
+恋病	1	lian bing
+情病	1	qing bing
+恋病娇	1	lian bing jiao
+情病娇	1	qing bing jiao
+青椒	1	qing jiao
+情人节静流	1	qing ren jie jing liu
+情姐	1	qing jie
+情人节姐姐	1	qing ren jie jie jie
+恋姐	1	lian jie
+安	1	an
+胖安	1	pang an
+小安	1	xiao an
+露	1	lu
+逃课女王	1	tao ke nv wang
+补考女帝	1	bu kao nv di
+古蕾娅	1	gu lei ya
+龙姬	1	long ji
+古雷娅	1	gu lei ya
+古蕾亚	1	gu lei ya
+古雷亚	1	gu lei ya
+古蕾雅	1	gu lei ya
+江户空花	1	jiang hu kong hua
+江户抖m	1	jiang hu dou _m
+江m	1	jiang _m
+花m	1	hua _m
+江花	1	jiang hua
+大江m	1	da jiang _m
+花抖	1	hua dou
+江户扇子	1	jiang hu shan zi
+忍扇	1	ren shan
+雷姆	1	lei mu
+蕾姆	1	lei mu
+拉姆	1	la mu
+爱蜜莉雅	1	ai mi li ya
+艾米莉亚	1	ai mi li ya
+瀑击弓	1	pu ji gong
+水爆	1	shui bao
+水爆弓	1	shui bao gong
+水暴	1	shui bao
+瀑	1	pu
+水暴弓	1	shui bao gong
+水暴击弓	1	shui bao ji gong
+水政委	1	shui zheng wei
+瀑弓	1	pu gong
+泳装暴弓	1	yong zhuang bao gong
+泳装爆弓	1	yong zhuang bao gong
+泳装政委	1	yong zhuang zheng wei
+水魅魔	1	shui mei mo
+水老师	1	shui lao shi
+泳装魅魔	1	yong zhuang mei mo
+泳装老师	1	yong zhuang lao shi
+水io	1	shui _io
+水美咲	1	shui mei xiao
+水大眼	1	shui da yan
+泳装大眼	1	yong zhuang da yan
+水电	1	shui dian
+泳装充电宝	1	yong zhuang chong dian bao
+泳装咲恋	1	yong zhuang xiao lian
+水着咲恋	1	shui zhe xiao lian
+水电站	1	shui dian zhan
+水电宝	1	shui dian bao
+水充	1	shui chong
+水狼	1	shui lang
+浪	1	lang
+泳狼	1	yong lang
+泳月	1	yong yue
+泳月月	1	yong yue yue
+泳朋	1	yong peng
+水月	1	shui yue
+水月月	1	shui yue yue
+水朋	1	shui peng
+水狗	1	shui gou
+泃	1	ju
+泳狗	1	yong gou
+水狗拳	1	shui gou quan
+水狐狸	1	shui hu li
+水狐	1	shui hu
+水壶	1	shui hu
+水真步	1	shui zhen bu
+水maho	1	shui _maho
+生菜	1	sheng cai
+插班碧	1	cha ban bi
+学院碧	1	xue yuan bi
+转校弓	1	zhuan xiao gong
+转学弓	1	zhuan xue gong
+克萝依	1	ke luo yi
+克罗依	1	ke luo yi
+华哥	1	hua ge
+黑江	1	hei jiang
+黑江花子	1	hei jiang hua zi
+花子	1	hua zi
+琪爱儿	1	qi ai er
+千爱瑠	1	qian ai liu
+切露	1	qie lu
+茄露	1	qie lu
+茄噜	1	qie lu
+切噜	1	qie lu
+佐仓	1	zuo cang
+优妮	1	you ni
+真行寺由仁	1	zhen xing si you ren
+由仁	1	you ren
+优尼	1	you ni
+优妮辈先	1	you ni bei xian
+辈先	1	bei xian
+书记	1	shu ji
+先辈	1	xian bei
+仙贝	1	xian bei
+油腻	1	you ni
+优妮先辈	1	you ni xian bei
+学姐	1	xue jie
+18岁黑丝学姐	1	sui hei si xue jie
+咖啡人	1	ka fei ren
+万圣镜华	1	wan sheng jing hua
+万圣小仓唯	1	wan sheng xiao cang wei
+万圣xcw	1	wan sheng _xcw
+猫仓唯	1	mao cang wei
+黑猫仓唯	1	hei mao cang wei
+猫唯	1	mao wei
+猫仓	1	mao cang
+喵唯	1	miao wei
+万圣禊	1	wan sheng xi
+万圣炸弹人	1	wan sheng zha dan ren
+瓜炸弹人	1	gua zha dan ren
+万圣炸弹	1	wan sheng zha dan
+万圣炸	1	wan sheng zha
+瓜炸	1	gua zha
+南瓜炸	1	nan gua zha
+万圣节禊	1	wan sheng jie xi
+万圣熊孩	1	wan sheng xiong hai
+万圣兔	1	wan sheng tu
+万圣兔子	1	wan sheng tu zi
+万圣兔兔	1	wan sheng tu tu
+绷带兔	1	beng dai tu
+绷带兔子	1	beng dai tu zi
+万圣美美	1	wan sheng mei mei
+绷带美美	1	beng dai mei mei
+瓜兔	1	gua tu
+露娜	1	lu na
+露仓唯	1	lu cang wei
+露cw	1	lu _cw
+圣诞克	1	sheng dan ke
+圣诞克总	1	sheng dan ke zong
+圣诞女帝	1	sheng dan nv di
+蛋克	1	dan ke
+蛋壳	1	dan ke
+圣克	1	sheng ke
+必胜客	1	bi sheng ke
+圣诞望	1	sheng dan wang
+圣诞偶像	1	sheng dan ou xiang
+蛋偶像	1	dan ou xiang
+蛋望	1	dan wang
+圣诞伊莉亚	1	sheng dan yi li ya
+圣诞伊利亚	1	sheng dan yi li ya
+圣诞伊莉雅	1	sheng dan yi li ya
+圣诞伊利雅	1	sheng dan yi li ya
+圣诞yly	1	sheng dan _yly
+圣诞吸血鬼	1	sheng dan xi xue gui
+圣伊	1	sheng yi
+圣yly	1	sheng _yly
+伊利丹	1	yi li dan
+春吃	1	chun chi
+新吃	1	xin chi
+新年吃货	1	xin nian chi huo
+年货	1	nian huo
+春可可	1	chun ke ke
+春白	1	chun bai
+新年妈	1	xin nian ma
+春妈	1	chun ma
+春凯留	1	chun kai liu
+春黑猫	1	chun hei mao
+春黑	1	chun hei
+春臭鼬	1	chun chou you
+新年凯留	1	xin nian kai liu
+新年黑猫	1	xin nian hei mao
+新年臭鼬	1	xin nian chou you
+神	1	shen
+春铃莓	1	chun ling mei
+春女仆	1	chun nv pu
+春妹抖	1	chun mei dou
+新年铃莓	1	xin nian ling mei
+新年女仆	1	xin nian nv pu
+新年妹抖	1	xin nian mei dou
+魔法少女霞	1	mo fa shao nv xia
+魔法侦探	1	mo fa zhen tan
+魔法杜宾犬	1	mo fa du bin quan
+魔法驴	1	mo fa lv
+魔法驴子	1	mo fa lv zi
+魔驴	1	mo lv
+魔法霞	1	mo fa xia
+魔法少驴	1	mo fa shao lv
+魔法少女栞	1	mo fa shao nv kan
+魔法tp弓	1	mo fa _tp gong
+魔法小栞	1	mo fa xiao kan
+魔法白虎弓	1	mo fa bai hu gong
+魔法白虎妹	1	mo fa bai hu mei
+魔法白虎	1	mo fa bai hu
+魔栞	1	mo kan
+魔弓	1	mo gong
+魔法弓	1	mo fa gong
+法弓	1	fa gong
+卯月	1	mao yue
+卵用	1	luan yong
+岛村卯月	1	dao cun mao yue
+凛	1	lin
+涩谷凛	1	se gu lin
+西部凛	1	xi bu lin
+未央	1	wei yang
+本田未央	1	ben tian wei yang
+骑兵松鼠	1	qi bing song shu
+游侠松鼠	1	you xia song shu
+游骑兵松鼠	1	you qi bing song shu
+护林员松鼠	1	hu lin yuan song shu
+护林松鼠	1	hu lin song shu
+武松	1	wu song
+钻头松鼠	1	zuan tou song shu
+骑兵奶牛	1	qi bing nai niu
+游侠奶牛	1	you xia nai niu
+游骑兵奶牛	1	you qi bing nai niu
+护林员奶牛	1	hu lin yuan nai niu
+护林奶牛	1	hu lin nai niu
+牛叉	1	niu cha
+爽弓	1	shuang gong
+爱丽丝弓	1	ai li si gong
+爱弓	1	ai gong
+兔弓	1	tu gong
+奇境妹弓	1	qi jing mei gong
+奇幻妹弓	1	qi huan mei gong
+奇幻璃乃	1	qi huan li nai
+仙境妹弓	1	xian jing mei gong
+白丝妹弓	1	bai si mei gong
+爱丽丝妹弓	1	ai li si mei gong
+路人兔	1	lu ren tu
+兔人妹	1	tu ren mei
+爱丽丝路人	1	ai li si lu ren
+奇境路人	1	qi jing lu ren
+奇幻路人	1	qi huan lu ren
+奇幻步未	1	qi huan bu wei
+仙境路人	1	xian jing lu ren
+爱丽丝路人妹	1	ai li si lu ren mei
+梦路	1	meng lu
+泳装流夏	1	yong zhuang liu xia
+水流夏	1	shui liu xia
+泳装刘夏	1	yong zhuang liu xia
+水刘夏	1	shui liu xia
+泳装大姐	1	yong zhuang da jie
+泳装大姐头	1	yong zhuang da jie tou
+水大姐	1	shui da jie
+水大姐头	1	shui da jie tou
+水儿力	1	shui er li
+泳装儿力	1	yong zhuang er li
+水流	1	shui liu
+泳装中二	1	yong zhuang zhong er
+泳装煤气罐	1	yong zhuang mei qi guan
+水中二	1	shui zhong er
+水煤气罐	1	shui mei qi guan
+冲	1	chong
+冲二	1	chong er
+泳装娜娜卡	1	yong zhuang na na ka
+泳装77k	1	yong zhuang _k
+泳装77香	1	yong zhuang xiang
+水娜娜卡	1	shui na na ka
+水77k	1	shui _k
+水77香	1	shui xiang
+水七七香	1	shui qi qi xiang
+泳装七七香	1	yong zhuang qi qi xiang
+水七	1	shui qi
+水星	1	shui xing
+海星	1	hai xing
+水hego	1	shui _hego
+水星法	1	shui xing fa
+泳装星法	1	yong zhuang xing fa
+水睡法	1	shui shui fa
+湦	1	sheng
+泳装初音	1	yong zhuang chu yin
+水初音	1	shui chu yin
+夏日初音	1	xia ri chu yin
+水母	1	shui mu
+泳装圣母	1	yong zhuang sheng mu
+水圣母	1	shui sheng mu
+泳装黑骑	1	yong zhuang hei qi
+水黑骑	1	shui hei qi
+泳装纯	1	yong zhuang chun
+水纯	1	shui chun
+小次郎	1	xiao ci lang
+天使妹法	1	tian shi mei fa
+天使茜里	1	tian shi qian li
+丘比特妹法	1	qiu bi te mei fa
+天妹	1	tian mei
+天使姐法	1	tian shi jie fa
+天使依里	1	tian shi yi li
+丘比特姐法	1	qiu bi te jie fa
+天姐	1	tian jie
+万圣裁缝	1	wan sheng cai feng
+万圣蜘蛛侠	1	wan sheng zhi zhu xia
+万裁	1	wan cai
+瓜裁	1	gua cai
+鬼裁	1	gui cai
+鬼才	1	gui cai
+万圣剑圣	1	wan sheng jian sheng
+万剑	1	wan jian
+瓜剑	1	gua jian
+瓜怜	1	gua lian
+万圣怜	1	wan sheng lian
+鬼剑	1	gui jian
+鬼怜	1	gui lian
+万圣跳跳虎	1	wan sheng tiao tiao hu
+万圣老虎	1	wan sheng lao hu
+瓜虎	1	gua hu
+万圣虎	1	wan sheng hu
+魔法少女莫妮卡	1	mo fa shao nv mo ni ka
+魔二力	1	mo er li
+魔卡少女	1	mo ka shao nv
+魔法少女智	1	mo fa shao nv zhi
+琪露诺	1	qi lu nuo
+9智	1	zhi
+圣剑	1	sheng jian
+生煎	1	sheng jian
+圣诞哈哈剑	1	sheng dan ha ha jian
+圣哈	1	sheng ha
+蛋哈	1	dan ha
+蛋剑	1	dan jian
+圣诞充电宝	1	sheng dan chong dian bao
+圣电	1	sheng dian
+圣诞咲恋	1	sheng dan xiao lian
+蛋黄	1	dan huang
+圣诞黄骑	1	sheng dan huang qi
+圣诞圣骑	1	sheng dan sheng qi
+蛋骑	1	dan qi
+圣黄	1	sheng huang
+新年511	1	xin nian
+春511	1	chun
+春11	1	chun
+春矛	1	chun mao
+新年似似花	1	xin nian shi shi hua
+春似似花	1	chun shi shi hua
+春nnk	1	chun _nnk
+春花	1	chun hua
+新年nnk	1	xin nian _nnk
+春妃	1	chun fei
+春448	1	chun
+礼妈	1	li ma
+仪妈	1	yi ma
+仪装妈	1	yi zhuang ma
+姨妈	1	yi ma
+礼白	1	li bai
+礼ue	1	li _ue
+礼装ue	1	li zhuang _ue
+礼装优衣	1	li zhuang you yi
+仪装ue	1	yi zhuang _ue
+礼衣	1	li yi
+礼田	1	li tian
+水驴	1	shui lv
+泳装驴	1	yong zhuang lv
+沪	1	hu
+人形羊驼	1	ren xing yang tuo
+人驼	1	ren tuo
+灰驼	1	hui tuo
+灰姑娘羊驼	1	hui gu niang yang tuo
+灰羊	1	hui yang
+灰姑娘狼	1	hui gu niang lang
+灰狼	1	hui lang
+灰姑娘狐狸	1	hui gu niang hu li
+灰狐狸	1	hui hu li
+灰狐	1	hui hu
+灰壶	1	hui hu
+茶狐	1	cha hu
+茶壶	1	cha hu
+运动华	1	yun dong hua
+运动华哥	1	yun dong hua ge
+圣学祭华	1	sheng xue ji hua
+圣学祭克萝依	1	sheng xue ji ke luo yi
+圣华	1	sheng hua
+运动切噜	1	yun dong qie lu
+圣学祭切噜	1	sheng xue ji qie lu
+圣学祭琪爱儿	1	sheng xue ji qi ai er
+圣学祭千爱瑠	1	sheng xue ji qian ai liu
+圣爱瑠	1	sheng ai liu
+圣优妮	1	sheng you ni
+圣uni	1	sheng _uni
+运动优妮	1	yun dong you ni
+运动服	1	yun dong fu
+罗塞塔	1	luo sai ta
+时间旅行龙锤	1	shi jian lv xing long chui
+穿越龙锤	1	chuan yue long chui
+穿越梨老八	1	chuan yue li lao ba
+军装龙锤	1	jun zhuang long chui
+元首龙锤	1	yuan shou long chui
+元首	1	yuan shou
+元老八	1	yuan lao ba
+时间旅行龙拳	1	shi jian lv xing long quan
+穿越龙拳	1	chuan yue long quan
+水手龙	1	shui shou long
+水手龙拳	1	shui shou long quan
+时空龙拳	1	shi kong long quan
+工菜	1	gong cai
+韭菜	1	jiu cai
+工作碧	1	gong zuo bi
+贡菜	1	gong cai
+工猫贼	1	gong mao zei
+工猫剑	1	gong mao jian
+工贼	1	gong zei
+工珠希	1	gong zhu xi
+电子龙	1	dian zi long
+工子龙	1	gong zi long
+工龙	1	gong long
+工头	1	gong tou
+泳装惠理子	1	yong zhuang hui li zi
+泳装病娇	1	yong zhuang bing jiao
+水病	1	shui bing
+水病娇	1	shui bing jiao
+水饺	1	shui jiao
+水娇	1	shui jiao
+泳装静流	1	yong zhuang jing liu
+泳装姐姐	1	yong zhuang jie jie
+水姐	1	shui jie
+水姐姐	1	shui jie jie
+水解	1	shui jie
+沮	1	ju
+泳装偶像	1	yong zhuang ou xiang
+泳装望	1	yong zhuang wang
+水望	1	shui wang
+水偶像	1	shui ou xiang
+夏日偶像	1	xia ri ou xiang
+夏日望	1	xia ri wang
+潒	1	xiang
+泳装千歌	1	yong zhuang qian ge
+水千	1	shui qian
+汘	1	qian
+泳千	1	yong qian
+泳装裁缝	1	yong zhuang cai feng
+泳装纺希	1	yong zhuang fang xi
+水裁缝	1	shui cai feng
+水裁	1	shui cai
+水彩	1	shui cai
+水纺希	1	shui fang xi
+漨	1	feng
+江月	1	jiang yue
+江S	1	jiang _S
+江户深月	1	jiang hu shen yue
+大江户深月	1	da jiang hu shen yue
+江雪	1	jiang xue
+江哥	1	jiang ge
+江户雪	1	jiang hu xue
+江户小雪	1	jiang hu xiao xue
+江户雪哥	1	jiang hu xue ge
+大江户雪	1	da jiang hu xue
+万圣狗	1	wan sheng gou
+瓜狗	1	gua gou
+万圣狗拳	1	wan sheng gou quan
+万圣扇	1	wan sheng shan
+瓜扇	1	gua shan
+万圣扇子	1	wan sheng shan zi
+万圣暴弓	1	wan sheng bao gong
+瓜弓	1	gua gong
+瓜暴弓	1	gua bao gong
+万圣爆弓	1	wan sheng bao gong
+瓜爆弓	1	gua bao gong
+克蕾琪塔	1	ke lei qi ta
+富婆	1	fu po
+信用卡	1	xin yong ka
+兰法	1	lan fa
+兰法妈妈	1	lan fa ma ma
+兰妈妈	1	lan ma ma
+兰妈	1	lan ma
+美空	1	mei kong
+坏女人	1	huai nv ren
+魅空	1	mei kong
+流魅空	1	liu mei kong
+流美空	1	liu mei kong
+星弓星	1	xing gong xing
+星栞星	1	xing kan xing
+星弓栞	1	xing gong kan
+星弓弓	1	xing gong gong
+星栞栞	1	xing kan kan
+星栞弓	1	xing kan gong
+花凛	1	hua lin
+佳凛	1	jia lin
+绿色恶魔	1	lv se e mo
+绿魔	1	lv mo
+绿毛恶魔	1	lv mao e mo
+黑老师	1	hei lao shi
+黑魅魔	1	hei mei mo
+黑m	1	hei _m
+暗m	1	an _m
+圣牛	1	sheng niu
+蛋牛	1	dan niu
+圣诞奶牛	1	sheng dan nai niu
+圣诞牛	1	sheng dan niu
+圣诞妹弓	1	sheng dan mei gong
+圣诞璃乃	1	sheng dan li nai
+弹弓	1	dan gong
+蛋弓	1	dan gong
+诞弓	1	dan gong
+圣诞布丁	1	sheng dan bu ding
+圣诞宫子	1	sheng dan gong zi
+诞丁	1	dan ding
+蛋丁	1	dan ding
+但丁	1	dan ding
+黑姐姐	1	hei jie jie
+黑姐	1	hei jie
+新年雪菲	1	xin nian xue fei
+春雪菲	1	chun xue fei
+春菲	1	chun fei
+春冰龙	1	chun bing long
+春流夏	1	chun liu xia
+春流	1	chun liu
+新年伊莉亚	1	xin nian yi li ya
+新年伊利亚	1	xin nian yi li ya
+新年伊莉雅	1	xin nian yi li ya
+新年伊利雅	1	xin nian yi li ya
+新年yly	1	xin nian _yly
+新年吸血鬼	1	xin nian xi xue gui
+春伊	1	chun yi
+春yly	1	chun _yly
+伊莉旦	1	yi li dan
+超载吃	1	chao zai chi
+超吃	1	chao chi
+超载佩可	1	chao zai pei ke
+超载佩	1	chao zai pei
+超佩	1	chao pei
+超载凯留	1	chao zai kai liu
+超凯留	1	chao kai liu
+超载黑猫	1	chao zai hei mao
+超黑	1	chao hei
+超猫	1	chao mao
+超威蓝猫	1	chao wei lan mao
+超载晶	1	chao zai jing
+超晶	1	chao jing
+舞台胡桃	1	wu tai hu tao
+舞桃	1	wu tao
+演员	1	yan yuan
+舞胡	1	wu hu
+芜湖	1	wu hu
+舞铃	1	wu ling
+舞台铃	1	wu tai ling
+戏铃	1	xi ling
+舞台大眼	1	wu tai da yan
+舞台眼	1	wu tai yan
+舞台美咲	1	wu tai mei xiao
+泥头车大眼	1	ni tou che da yan
+车眼	1	che yan
+怪盗路人	1	guai dao lu ren
+怪盗路人妹	1	guai dao lu ren mei
+怪盗祈梨	1	guai dao qi li
+怪盗龙锤	1	guai dao long chui
+忍龙	1	ren long
+忍龙锤	1	ren long chui
+海盗中二	1	hai dao zhong er
+海盗杏奈	1	hai dao xing nai
+船长中二	1	chuan zhang zhong er
+船二	1	chuan er
+海盗忍	1	hai dao ren
+海贼忍	1	hai zei ren
+海忍	1	hai ren
+水手忍	1	shui shou ren
+手忍	1	shou ren
+露营碧	1	lu ying bi
+露碧	1	lu bi
+野菜	1	ye cai
+露营优花梨	1	lu ying you hua li
+露优花梨	1	lu you hua li
+露花梨	1	lu hua li
+露营黄骑	1	lu ying huang qi
+露黄骑	1	lu huang qi
+露黄	1	lu huang
+斑比	1	ban bi
+斑比酱	1	ban bi jiang
+钉宫	1	ding gong
+水猫拳	1	shui mao quan
+水日和	1	shui ri he
+水怜	1	shui lian
+水剑圣	1	shui jian sheng
+水优衣	1	shui you yi
+水ue	1	shui _ue
+水田	1	shui tian
+泳衣	1	yong yi
+游依	1	you yi
+水草	1	shui cao
+泳装镜华	1	yong zhuang jing hua
+水镜华	1	shui jing hua
+水xcw	1	shui _xcw
+水仓唯	1	shui cang wei
+水cw	1	shui _cw
+水禊	1	shui xi
+水炸弹人	1	shui zha dan ren
+水炸	1	shui zha
+水未奏希	1	shui wei zou xi
+泳装炸弹人	1	yong zhuang zha dan ren
+泳装未奏希	1	yong zhuang wei zou xi
+水美美	1	shui mei mei
+泳装美美	1	yong zhuang mei mei
+水兔	1	shui tu
+水兔兔	1	shui tu tu
+水兔子	1	shui tu zi
+爱梅斯	1	ai mei si
+菲欧	1	fei ou
+爱美斯	1	ai mei si
+艾美斯	1	ai mei si
+艾梅斯	1	ai mei si
+野狐	1	ye hu
+探狐	1	tan hu
+尻狐	1	kao hu
+屁狐	1	pi hu
+屁胡	1	pi hu
+野锤	1	ye chui
+野炊	1	ye chui
+涅娅	1	nie ya
+小黄	1	xiao huang
+史莱姆	1	shi lai mu
+黄史莱姆	1	huang shi lai mu
+瓜松鼠	1	gua song shu
+鬼松鼠	1	gui song shu
+万圣松鼠	1	wan sheng song shu
+瓜智	1	gua zhi
+鬼智	1	gui zhi
+万圣智	1	wan sheng zhi
+鬼七	1	gui qi
+瓜七	1	gua qi
+万圣七七香	1	wan sheng qi qi xiang
+鬼泣	1	gui qi
+兔克	1	tu ke
+兔女郎克	1	tu nv lang ke
+野克	1	ye ke
+小虎	1	xiao hu
+野老虎	1	ye lao hu
+圣妹	1	sheng mei
+圣诞妹法	1	sheng dan mei fa
+圣姐	1	sheng jie
+圣诞姐法	1	sheng dan jie fa
+白骑	1	bai qi
+圣黑骑	1	sheng hei qi
+圣诞黑骑	1	sheng dan hei qi
+春龙妈	1	chun long ma
+新年龙妈	1	xin nian long ma
+春母	1	chun mu
+新母	1	xin mu
+新年圣母	1	xin nian sheng mu
+春月	1	chun yue
+新月	1	xin yue
+新年深月	1	xin nian shen yue
+猫咖	1	mao ka
+咖啡猫	1	ka fei mao
+莫妮咖	1	mo ni ka
+咖二力	1	ka er li
+游妈	1	you ma
+狗妈	1	gou ma
+游侠可可萝	1	you xia ke ke luo
+游侠妈	1	you xia ma
+游白	1	you bai
+游栞	1	you kan
+游侠栞	1	you xia kan
+游侠tp弓	1	you xia _tp gong
+环奈	1	huan nai
+桥本环奈	1	qiao ben huan nai
+红二力	1	hong er li
+毛大力	1	mao da li
+毛小力	1	mao xiao li
+毛六力	1	mao liu li
+可大萝	1	ke da luo
+大可萝	1	da ke luo
+缝合怪	1	feng he guai
+振袖环奈	1	zhen xiu huan nai
+春环	1	chun huan
+春奈	1	chun nai
+春环奈	1	chun huan nai
+二环	1	er huan
+振环奈	1	zhen huan nai
+振环	1	zhen huan
+甄嬛	1	zhen xuan
+震动环	1	zhen dong huan
+年糕环奈	1	nian gao huan nai
+年糕环	1	nian gao huan
+公主日和	1	gong zhu ri he
+公猫	1	gong mao
+炎拳猫	1	yan quan mao
+火猫	1	huo mao
+炎拳	1	yan quan
+公主优衣	1	gong zhu you yi
+公主yui	1	gong zhu _yui
+公主种田	1	gong zhu zhong tian
+公主田	1	gong zhu tian
+公主ue	1	gong zhu _ue
+掉毛优衣	1	diao mao you yi
+掉毛yui	1	diao mao _yui
+掉毛ue	1	diao mao _ue
+掉毛	1	diao mao
+飞翼优衣	1	fei yi you yi
+飞翼ue	1	fei yi _ue
+飞翼	1	fei yi
+飞翼高达	1	fei yi gao da
+飞田	1	fei tian
+羽田	1	yu tian
+羽衣	1	yu yi
+毛衣	1	mao yi
+公主怜	1	gong zhu lian
+公剑	1	gong jian
+风剑	1	feng jian
+pf怜	1	_pf lian
+公主吃	1	gong zhu chi
+公主饭	1	gong zhu fan
+公主吃货	1	gong zhu chi huo
+公主佩可	1	gong zhu pei ke
+公主饭团	1	gong zhu fan tuan
+命运高达	1	ming yun gao da
+高达	1	gao da
+命运公主	1	ming yun gong zhu
+高达公主	1	gao da gong zhu
+命吃	1	ming chi
+春哥高达	1	chun ge gao da
+公吃	1	gong chi
+pf吃	1	_pf chi
+公主妈	1	gong zhu ma
+月光妈	1	yue guang ma
+蝶妈	1	die ma
+蝴蝶妈	1	hu die ma
+月光蝶妈	1	yue guang die ma
+公主可	1	gong zhu ke
+公主可萝	1	gong zhu ke luo
+公主可可萝	1	gong zhu ke ke luo
+月光可	1	yue guang ke
+月光可萝	1	yue guang ke luo
+月光可可萝	1	yue guang ke ke luo
+蝶可	1	die ke
+蝶可萝	1	die ke luo
+蝶可可萝	1	die ke ke luo
+公可	1	gong ke
+pf妈	1	_pf ma
+飞妈	1	fei ma
+公主黑猫	1	gong zhu hei mao
+公主猫	1	gong zhu mao
+公主猫猫头	1	gong zhu mao mao tou
+白猫	1	bai mao
+初音&栞	1	chu yin kan
+Hatsune&Shiori	1	_HatsuneShiori
+星弓	1	xing gong
+星栞	1	xing kan
+双子弓	1	shuang zi gong
+姐妹弓	1	jie mei gong
+姊妹弓	1	zi mei gong
+姐妹丼	1	jie mei jing
+姊妹丼	1	zi mei jing
+姐妹井	1	jie mei jing
+贴贴弓	1	tie tie gong
+替身弓	1	ti shen gong
+白金之星	1	bai jin zhi xing
+食堂泼辣酱	1	shi tang po la jiang
+初音栞	1	chu yin kan
+星法栞	1	xing fa kan
+禊&美美&镜华	1	xi mei mei jing hua
+Misogi&Mimi&Kyouka	1	_MisogiMimiKyouka
+小小甜心	1	xiao xiao tian xin
+狱三家	1	yu san jia
+小御三家	1	xiao yu san jia
+秋乃&咲恋	1	qiu nai xiao lian
+Akino&Saren	1	_AkinoSaren
+咲哈哈	1	xiao ha ha
+哈哈电	1	ha ha dian
+哈哈咲	1	ha ha xiao
+哈电	1	ha dian
+电哈	1	dian ha
+光焰	1	guang yan
+安&古蕾雅	1	an gu lei ya
+An&Gurea	1	_AnGurea
+双姬	1	shuang ji
+古安	1	gu an
+龙安	1	long an
+大古	1	da gu
+大吾	1	da wu
+鬼道大吾	1	gui dao da wu
+涅比亚	1	nie bi ya
+真崎	1	zhen qi
+米涅尔	1	mi nie er
+和正	1	he zheng
+豪绅	1	hao shen
+基洛	1	ji luo
+赞恩	1	zan en
+大舅哥	1	da jiu ge
+阿佐尔德	1	a zuo er de
+猪哥	1	zhu ge
+骷髅	1	ku lou
+髑髏	1	du lou
+骷髅老爹	1	ku lou lao die
+老爹	1	lao die
+祐树	1	you shu
+骑士	1	qi shi
+骑士君	1	qi shi jun
+破晓之星	1	po xiao zhi xing
+东山奈央	1	dong shan nai yang
+种田梨沙	1	zhong tian li sha
+早见沙织	1	zao jian sha zhi
+诸星堇	1	zhu xing jin
+王宫骑士团	1	wang gong qi shi tuan
+下田麻美	1	xia tian ma mei
+恶魔伪王国军	1	e mo wei wang guo jun
+浅仓杏美	1	qian cang xing mei
+雨宫天	1	yu gong tian
+纯白之翼兰德索尔分部	1	chun bai zhi yi lan de suo er fen bu
+大空直美	1	da kong zhi mei
+暮光流星群	1	mu guang liu xing qun
+高野麻美	1	gao ye ma mei
+自卫团	1	zi wei tuan
+内田真礼	1	nei tian zhen li
+拉比林斯	1	la bi lin si
+阿澄佳奈	1	a cheng jia nai
+森林守卫	1	sen lin shou wei
+大桥彩香	1	da qiao cai xiang
+佳村遥	1	jia cun yao
+水濑祈	1	shui lai qi
+国府田麻理子	1	guo fu tian ma li zi
+月光学院	1	yue guang xue yuan
+上坂堇	1	shang ban jin
+高森奈津美	1	gao sen nai jin mei
+伊藤静	1	yi teng jing
+日高里菜	1	ri gao li cai
+咲恋救济院	1	xiao lian jiu ji yuan
+植田佳奈	1	zhi tian jia nai
+原纱友里	1	yuan sha you li
+芹泽优	1	qin ze you
+伊丽莎白牧场	1	yi li sha bai mu chang
+小岩井小鸟	1	xiao yan jing xiao niao
+桥本千波	1	qiao ben qian bo
+堀江由衣	1	ku jiang you yi
+慈乐之音	1	ci le zhi yin
+日笠阳子	1	ri li yang zi
+佐藤聪美	1	zuo teng cong mei
+大坪由佳	1	da ping you jia
+墨丘利财团	1	mo qiu li cai tuan
+松嵜丽	1	song qi li
+新田惠海	1	xin tian hui hai
+今井麻美	1	jin jing ma mei
+茅原实里	1	mao yuan shi li
+小清水亚美	1	xiao qing shui ya mei
+花泽香菜	1	hua ze xiang cai
+福原绫香	1	fu yuan ling xiang
+小松未可子	1	xiao song wei ke zi
+丹下樱	1	dan xia ying
+长妻树里	1	zhang qi shu li
+沼仓爱美	1	zhao cang ai mei
+川澄绫子	1	chuan cheng ling zi
+田所梓	1	tian suo zi
+生天目仁美	1	sheng tian mu ren mei
+久野美咲	1	jiu ye mei xiao
+三石琴乃	1	san shi qin nai
+德井青空	1	de jing qing kong
+辻亚由美	1	shi ya you mei
+木户衣吹	1	mu hu yi chui
+大关英里	1	da guan ying li
+佐藤利奈	1	zuo teng li nai
+金元寿子	1	jin yuan shou zi
+美食殿堂	1	mei shi dian tang
+M·A·O	1	_MAO
+伊藤美来	1	yi teng mei lai
+立花理香	1	li hua li xiang
+潘惠美	1	pan hui mei
+优木加奈	1	you mu jia nai
+近藤玲奈	1	jin teng ling nai
+龙族巢穴	1	long zu chao xue
+小市真琴	1	xiao shi zhen qin
+藤田茜	1	teng tian qian
+大西沙织	1	da xi sha zhi
+菈比莉斯塔	1	la bi li si ta
+泽城美雪	1	ze cheng mei xue
+仓井翔太	1	cang jing xiang tai
+井口裕香	1	jing kou yu xiang
+高桥智秋	1	gao qiao zhi qiu
+古山贵实子	1	gu shan gui shi zi
+村川梨衣	1	cun chuan li yi
+高桥李依	1	gao qiao li yi
+种崎敦美	1	zhong qi dun mei
+佐仓绫音	1	zuo cang ling yin
+小原好美	1	xiao yuan hao mei
+里士满工商会	1	li shi man gong shang hui
+愤怒·军团	1	fen nu jun tuan
+原田彩枫	1	yuan tian cai feng
+鬼头明里	1	gui tou ming li
+洲崎绫	1	zhou qi ling
+钉宫理惠	1	ding gong li hui
+相坂优歌	1	xiang ban you ge
+和气杏未	1	he qi xing wei
