@@ -7,3 +7,6 @@ imewlconverter/*.zip
 imewlconverter/dictionary.txt
 docs/.vuepress/dist
 data.txt
+
+.temp
+.cache
